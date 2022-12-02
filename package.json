@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/venkatasubbareddy8500.lwc-la1laxez-fork-lb6anr8c",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9hyAZIEpXB3GTMgRxJU1 --open"
+  }
+}
